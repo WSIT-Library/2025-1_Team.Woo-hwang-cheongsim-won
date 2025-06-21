@@ -7,9 +7,10 @@
 <table>
 <thead>
 <tr>
-<th align="center"><strong>김태현</strong></th>
-<th align="center"><strong>정주훈</strong></th>
 <th align="center"><strong>임윤섭</strong></th>
+<th align="center"><strong>정주훈</strong></th>
+<th align="center"><strong>김태현</strong></th>
+
 </tr>
 </thead>
 <tbody>
