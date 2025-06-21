@@ -52,6 +52,14 @@
 </table>
 
 
+<h2>🌐 배포 주소</h2>
+
+<ul>
+  <li>🔵 <strong>프론트엔드</strong>: <a href="https://web-capstone-ai-react-mb65c377c98e4ee4.sel4.cloudtype.app/" target="_blank">InterviewMate 웹사이트 바로가기</a></li>
+  <li>🟢 <strong>백엔드 API</strong>: <a href="https://port-0-capstone-ai-mb65c377c98e4ee4.sel4.cloudtype.app/" target="_blank">API 서버 엔드포인트</a></li>
+</ul>
+
+
 
 ### 👨‍💻 프로젝트 기여자
 <table>
