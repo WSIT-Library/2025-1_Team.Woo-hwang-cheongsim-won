@@ -15,8 +15,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><<a href="https://github.com/qwer-121212"><img src="https://github.com/qwer-121212.png" height="150" width="150"> <br> 프론트엔드 구성, STT 기능 및 인터뷰 화면 개발</td>
-<td align="center"><<a href="https://github.com/jeongjuhun"><img src="https://github.com/jeongjuhun.png" height="150" width="150"> <br> GPT API 서버 연동, MediaPipe 구현</td>
+<td align="center"><a href="https://github.com/qwer-121212"><img src="https://github.com/qwer-121212.png" height="150" width="150"> <br> 프론트엔드 구성, STT 기능 및 인터뷰 화면 개발</td>
+<td align="center"><a href="https://github.com/jeongjuhun"><img src="https://github.com/jeongjuhun.png" height="150" width="150"> <br> GPT API 서버 연동, MediaPipe 구현</td>
 <td align="center"><a href="https://github.com/bird8696"><img src="https://github.com/bird8696.png" height="150" width="150"> <br> LangChain 구성, GPT 프롬프트 설계</a></td>
 </tr>
 </tbody>
