@@ -61,10 +61,10 @@ GPT-4, LangChain, Web Speech API, MediaPipe 등 최신 기술을 활용하여 **
 - 고개 끄덕임 감지
 - 면접관 이미지가 **점수에 따라 동적으로 변화**
 
-<h2>시스템 구성도</h2>
-![image](https://github.com/user-attachments/assets/38a8366e-95fe-4145-b8f8-6754f6055860)
+## 🧩 시스템 구성도
 
-
+AI 면접 시뮬레이션 시스템의 흐름과 평가 로직 구성도입니다:
+![AI 면접 시뮬레이션 시스템 구성도](./구성도.png)
 
 <h2>🌐 배포 주소</h2>
 
